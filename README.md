@@ -1,2 +1,2 @@
-# PrepCoruse-Henry
+# PrepCourse-Henry
 modulo 2 prepcourse
